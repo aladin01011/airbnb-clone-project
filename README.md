@@ -84,6 +84,48 @@ A user-friendly interface is essential in a booking system to:
 - Ensure accessibility for all users
 - Enhance performance and usability
 
+🎨 Color Styles
+Primary Color: #FF5A5F
+
+Secondary Color: #008489
+
+Background Color: #FFFFFF
+
+Text Color: #222222
+
+Secondary Text Color: #717171
+
+✍️ Typography
+Primary Font Family: Circular
+
+Font Weights:
+
+Book (400) – for secondary text
+
+Medium (500) – for body text
+
+Bold (700) – for headings
+
+Font Sizes:
+
+Body Text: 16px
+
+Secondary Text: 14px
+
+Headings: 24px – 32px
+
+📌 Why Identifying Design Properties Matters
+Identifying design properties in a mockup (like those provided in Figma) is critical because it:
+
+Ensures Visual Consistency: Using the same colors, fonts, and sizes helps maintain a cohesive look and feel across all pages.
+
+Speeds Up Development: Developers can implement UI components faster when styles are clearly defined.
+
+Improves Team Communication: Designers and developers work better together when the design system is clear.
+
+Enables Scalability: A well-documented design system can easily be extended for new features or pages.
+
+Improves User Experience: Consistency in design leads to better usability and user satisfaction.
 
 ## License
 
