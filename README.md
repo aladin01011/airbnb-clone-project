@@ -50,6 +50,40 @@ This section will be updated as the project evolves.
 Project initialized and under active development.
 
 ---
+## 🖌️ UI/UX Design Planning
+
+### 🎯 Design Goals
+
+- Create an intuitive and seamless booking flow  
+- Maintain visual and brand consistency across all views  
+- Prioritize mobile-first and responsive layout design  
+- Ensure fast loading times and optimized performance  
+- Follow accessibility best practices (WCAG compliance)  
+
+### ✨ Key Features to Implement
+
+- Property Search & Filtering
+- Detailed Property View
+- Secure Checkout Process
+- User Authentication
+- Wishlist / Favorites
+
+### 🗂️ Primary Pages Overview
+
+| Page Name               | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| **Property Listing View** | Grid layout of all available properties with filtering by location, price, etc. |
+| **Listing Detailed View** | Detailed page for each property with photos, pricing, availability, and booking form |
+| **Simple Checkout View**  | Minimalist form for completing the booking process and viewing confirmation |
+
+### 🧠 Importance of a User-Friendly Design
+
+A user-friendly interface is essential in a booking system to:
+- Reduce friction in the user journey
+- Improve trust and satisfaction
+- Ensure accessibility for all users
+- Enhance performance and usability
+
 
 ## License
 
