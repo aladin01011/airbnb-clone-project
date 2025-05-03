@@ -140,6 +140,46 @@ Clearly defined roles ensure smooth collaboration, accountability, and successfu
 | **Product Owner**       | - Defines product vision and key features<br>- Gathers user requirements and feedback<br>- Prioritizes tasks based on business value                  |
 | **Scrum Master**        | - Facilitates daily stand-ups and sprint planning<br>- Removes team blockers<br>- Promotes agile best practices                                       |
 
+🧩 UI Component Patterns
+To maintain a consistent and reusable frontend structure, the following UI components will be developed:
+
+1. Navbar
+A top navigation bar that appears across all pages.
+
+Includes the site logo
+
+Search bar for quick property lookup
+
+User profile menu (Login / Register / Profile)
+
+Responsive hamburger menu for mobile view
+
+2. Property Card
+Displays a summarized view of a property in the listing grid.
+
+Property image thumbnail
+
+Location and title
+
+Rating and reviews
+
+Price per night
+
+“Favorite” (heart) button
+
+Fully responsive layout
+
+3. Footer
+A bottom section consistent across pages.
+
+Navigation links (About, Help, Contact, Terms)
+
+Company branding
+
+Social media icons
+
+Copyright notice$
+
 ## License
 
 MIT License
