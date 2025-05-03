@@ -127,6 +127,19 @@ Enables Scalability: A well-documented design system can easily be extended for 
 
 Improves User Experience: Consistency in design leads to better usability and user satisfaction.
 
+👥 Project Roles and Responsibilities
+Clearly defined roles ensure smooth collaboration, accountability, and successful project delivery. Below is a breakdown of each role and their contributions to the Airbnb Clone Project:
+| **Role**                | **Responsibilities**                                                                                                                                  |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project Manager**     | - Oversees the entire project timeline<br>- Coordinates between teams and manages deliverables<br>- Ensures goals are met on time and within scope    |
+| **Frontend Developers** | - Build and style UI components<br>- Ensure responsiveness and mobile-first design<br>- Integrate frontend with backend APIs                          |
+| **Backend Developers**  | - Design and implement RESTful APIs<br>- Manage server-side logic and authentication<br>- Handle database integration and optimization                |
+| **Designers**           | - Create wireframes and high-fidelity mockups in Figma<br>- Maintain visual consistency and design system<br>- Ensure user-friendly and accessible UX |
+| **QA/Testers**          | - Write and execute test cases<br>- Perform manual and automated testing<br>- Identify and report bugs to development teams                           |
+| **DevOps Engineers**    | - Manage server and infrastructure<br>- Set up CI/CD pipelines for seamless deployment<br>- Monitor performance and ensure uptime                     |
+| **Product Owner**       | - Defines product vision and key features<br>- Gathers user requirements and feedback<br>- Prioritizes tasks based on business value                  |
+| **Scrum Master**        | - Facilitates daily stand-ups and sprint planning<br>- Removes team blockers<br>- Promotes agile best practices                                       |
+
 ## License
 
 MIT License
